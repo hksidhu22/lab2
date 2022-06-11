@@ -1,0 +1,5 @@
+import sys
+name = sys.argv[0]
+variable = sys.argv[1]
+print(name)
+print(name + variable) 
